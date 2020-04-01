@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="advanced-jaxrs">
-    <output-path>$PROJECT_DIR$/out/artifacts/advanced_jaxrs</output-path>
-    <root id="archive" name="advanced-jaxrs.war" />
-  </artifact>
-</component>
