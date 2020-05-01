@@ -1,9 +1,0 @@
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:30:44 +0530] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:30:45 +0530] "GET /test/ HTTP/1.1" 200 239 http-bio-8080-exec-2 670
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:30:48 +0530] "GET /test/webapi/myresource HTTP/1.1" 200 7 http-bio-8080-exec-3 57
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:34:52 +0530] "GET /messenger HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:34:52 +0530] "GET /messenger/ HTTP/1.1" 200 239 http-bio-8080-exec-2 494
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:34:54 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7 http-bio-8080-exec-3 62
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:42:25 +0530] "GET /messenger/ HTTP/1.1" 200 80 http-bio-8080-exec-1 570
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:43:10 +0530] "GET /messenger/ HTTP/1.1" 200 239 http-bio-8080-exec-2 51
-0:0:0:0:0:0:0:1 - - [25/Jan/2020:20:43:12 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7 http-bio-8080-exec-3 56
